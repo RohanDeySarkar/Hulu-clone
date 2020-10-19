@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+}
+
+.app {
+  /* remove width */
+  width: 100vw;
+  background: linear-gradient(to right, #051421, #042727);
+}

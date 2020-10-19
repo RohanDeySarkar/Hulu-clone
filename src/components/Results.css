@@ -1,0 +1,7 @@
+/* Flipmove adds a div, so update the results div's child div which is added with flipMove */
+.results > div {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center */
+    justify-content: space-evenly;
+}
