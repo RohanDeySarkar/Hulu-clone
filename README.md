@@ -1,5 +1,8 @@
 Hosted on --> https://rohandeysarkar.github.io/Hulu-clone/
 
+
+![](https://raw.githubusercontent.com/RohanDeySarkar/Hulu-clone/master/hulu-clone-sampleImg.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
